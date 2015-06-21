@@ -1,8 +1,6 @@
 {
-  "type": "GeometryCollection",
   "geometries": [
     {
-      "type": "MultiPoint",
       "coordinates": [
         [
           -91.78143,
@@ -427,11 +425,19 @@
         [
           -75.39798,
           35.163790000000006
+        ],
+        [
+          -75.97269,
+          36.8269
+        ],
+        [
+          -76.47882,
+          37.25597
         ]
-      ]
+      ],
+      "type": "MultiPoint"
     },
     {
-      "type": "LineString",
       "coordinates": [
         [
           -91.78143,
@@ -856,8 +862,18 @@
         [
           -75.39798,
           35.163790000000006
+        ],
+        [
+          -75.97269,
+          36.8269
+        ],
+        [
+          -76.47882,
+          37.25597
         ]
-      ]
+      ],
+      "type": "LineString"
     }
-  ]
+  ],
+  "type": "GeometryCollection"
 }
